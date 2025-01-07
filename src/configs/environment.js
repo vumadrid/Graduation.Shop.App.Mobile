@@ -1,5 +1,5 @@
-const SERVER_URL = 'http://10.1.1.174:8069/api';
-// const SERVER_URL = 'https://worthy-extremely-bonefish.ngrok-free.app/api';
+// const SERVER_URL = 'http://192.168.20.170:8069/api';
+const SERVER_URL = 'https://odoo-189962-0.cloudclusters.net/api';
 const GOOGLE_API_KEY = 'AIzaSyB9labulM1hoahFlmNih6WH0E8nw3dpWjQ';
 // const GOOGLE_API_KEY = 'AIzaSyB9labulM1hoahFlmNih6WH0E8nw3dpWjQ';
 
